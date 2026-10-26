@@ -42,14 +42,18 @@
 
 </div>
 
-| Область | Стек и инструменты |
-|---|---|
-| **Backend** | PHP (Laravel 12, WordPress), Python (Django), Rust |
-| **Frontend** | TypeScript / JavaScript, React, VueJS, Vite |
-| **Базы и брокеры** | PostgreSQL, MySQL, Redis, RabbitMQ |
-| **DevOps** | Docker, Linux, nginx / Caddy, CI/CD, Git |
-| **Бизнес-платформы** | 1С-Битрикс, BPMSoft, Битрикс24 Enterprise |
-| **Методологии** | Agile / Scrum (10 лет), PMP® (2017), OTUS PM (2020) |
+<table width="100%">
+  <tr>
+    <th width="26%" align="left">Область</th>
+    <th align="left">Стек и инструменты</th>
+  </tr>
+  <tr><td><b>Backend</b></td><td>PHP (Laravel 12, WordPress), Python (Django), Rust</td></tr>
+  <tr><td><b>Frontend</b></td><td>TypeScript / JavaScript, React, VueJS, Vite</td></tr>
+  <tr><td><b>Базы и брокеры</b></td><td>PostgreSQL, MySQL, Redis, RabbitMQ</td></tr>
+  <tr><td><b>DevOps</b></td><td>Docker, Linux, nginx / Caddy, CI/CD, Git</td></tr>
+  <tr><td><b>Бизнес-платформы</b></td><td>1С-Битрикс, BPMSoft, Битрикс24 Enterprise</td></tr>
+  <tr><td><b>Методологии</b></td><td>Agile / Scrum (10 лет), PMP® (2017), OTUS PM (2020)</td></tr>
+</table>
 
 ---
 
