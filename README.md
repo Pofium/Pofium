@@ -95,7 +95,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pofium&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=ru" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pofium&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_rank=true&locale=ru" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pofium&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Топ языков" />
 
 <img src="https://streak-stats.demolab.com?user=Pofium&theme=tokyonight&hide_border=true&locale=ru" alt="Серия коммитов" width="480" />
