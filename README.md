@@ -11,7 +11,7 @@
 
 [![Website](https://img.shields.io/badge/presniakov.ru-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://presniakov.ru)
 [![Telegram](https://img.shields.io/badge/@ipresniakov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ipresniakov)
-[![Email](https://img.shields.io/badge/i.presnyakov@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.presnyakov@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.presnyakov@gmail.com)
 [![GitVerse](https://img.shields.io/badge/gitverse.ru-181717?style=for-the-badge&logo=git&logoColor=white)](https://gitverse.ru/presnyakov)
 
 <img src="https://komarev.com/ghpvc/?username=Pofium&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Просмотры профиля" />
@@ -36,9 +36,9 @@
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,django,ts,js,react,vue&perline=8" alt="Языки и фреймворки" />
 <br/>
-<img src="https://skillicons.dev/icons?i=rust,flutter,docker,nginx,caddy,postgres,mysql,redis&perline=8" alt="Инфраструктура" />
+<img src="https://skillicons.dev/icons?i=rust,flutter,docker,nginx,postgres,mysql,redis,rabbitmq&perline=8" alt="Инфраструктура" />
 <br/>
-<img src="https://skillicons.dev/icons?i=rabbitmq,wordpress,git,linux,githubactions,vite,bash,powershell&perline=8" alt="Инструменты" />
+<img src="https://skillicons.dev/icons?i=wordpress,git,linux,githubactions,vite,bash,powershell,vscode&perline=8" alt="Инструменты" />
 
 </div>
 
@@ -57,18 +57,16 @@
 
 <div align="center">
 
-<a href="https://github.com/Pofium/ob2h">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=ob2h&theme=tokyonight" alt="OB2H" />
-</a>
-<a href="https://github.com/Pofium/omnes-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=omnes-agent&theme=tokyonight" alt="OmnesAgent" />
-</a>
-<a href="https://github.com/Pofium/opentfc-confluence-plugin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=opentfc-confluence-plugin&theme=tokyonight" alt="OpenTFC Confluence Plugin" />
-</a>
-<a href="https://github.com/Pofium/ga-ex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=ga-ex&theme=tokyonight" alt="GA Extractor" />
-</a>
+<table>
+  <tr>
+    <td><a href="https://github.com/Pofium/ob2h"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=ob2h&theme=tokyonight" alt="OB2H" /></a></td>
+    <td><a href="https://github.com/Pofium/omnes-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=omnes-agent&theme=tokyonight" alt="OmnesAgent" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Pofium/opentfc-confluence-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=opentfc-confluence-plugin&theme=tokyonight" alt="OpenTFC Confluence Plugin" /></a></td>
+    <td><a href="https://github.com/Pofium/ga-ex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Pofium&repo=ga-ex&theme=tokyonight" alt="GA Extractor" /></a></td>
+  </tr>
+</table>
 
 </div>
 
@@ -97,7 +95,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pofium&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=ru&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pofium&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=ru" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pofium&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Топ языков" />
 
 <img src="https://streak-stats.demolab.com?user=Pofium&theme=tokyonight&hide_border=true&locale=ru" alt="Серия коммитов" width="480" />
